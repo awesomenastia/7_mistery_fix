@@ -13,4 +13,3 @@ def get_roots(a, b, c):
         else:
             return root1, root2
 
-
